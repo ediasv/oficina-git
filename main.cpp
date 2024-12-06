@@ -1,2 +1,1 @@
-tchau
-nova linha
+tchau nova linha
